@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="D:\TEST CODES\Bisceps exercise tracker with voice assitance\backend\venv"
+VIRTUAL_ENV="D:\TEST CODES\Bisceps exercise tracker without voice assitance - Copy\bisecps_tracker_backend\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
